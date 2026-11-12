@@ -5,3 +5,5 @@
 PC port/Recomp of Krusty's Super Fun House
 
 Open the [latest Windows or macOS release](https://github.com/Bentley734/Krustys-Super-Fun-House-PC-Port/releases/latest) and choose your Krusty’s Super Fun House (USA) (Rev 1) SNES cartridge dump. RecompLauncher supports Easy Setup and in-launcher display and audio settings.
+
+[![Verified developer on RecompStore](https://recompstore.com/assets/press/verified-dark.svg)](https://recompstore.com/dev/bentley734)
